@@ -1,11 +1,11 @@
 import Banner from "./Banner";
-import Github from "./Github";
+import Skills from "./Skills";
 
 const Home = () => {
     return (
         <>
             <div><Banner></Banner></div>
-            <div><Github></Github></div>
+            <div><Skills></Skills></div>
         </>
     );
 };

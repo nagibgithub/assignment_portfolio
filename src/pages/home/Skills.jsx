@@ -8,8 +8,8 @@ const Skills = () => {
         { name: 'tailwind' , image: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg'},
         { name: 'javascript' , image: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg'},
         { name: 'react' , image: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg'},
-        { name: 'firebase' , image: ''},
-        { name: 'mongodb' , image: ''},
+        { name: 'firebase' , image: 'https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/firebase-svgrepo-com.svg'},
+        { name: 'mongodb' , image: 'https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg'},
         { name: 'node' , image: ''},
     ];
 

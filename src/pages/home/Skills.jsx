@@ -3,19 +3,19 @@ const Skills = () => {
 
 
     const skillsList = [
-        { name: 'HTML' },
-        { name: 'CSS' },
-        { name: 'tailwind' },
-        { name: 'javascript' },
-        { name: 'react' },
-        { name: 'firebase' },
-        { name: 'mongodb' },
-        { name: 'node' },
+        { name: 'HTML' , image: 'https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg'},
+        { name: 'CSS' , image: 'https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg'},
+        { name: 'tailwind' , image: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg'},
+        { name: 'javascript' , image: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg'},
+        { name: 'react' , image: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg'},
+        { name: 'firebase' , image: ''},
+        { name: 'mongodb' , image: ''},
+        { name: 'node' , image: ''},
     ];
 
-    const skills = skillsList.map((pd, index) => <div key={index} className="avatar">
-        <div className="w-24 mask mask-hexagon">
-            <img src={''} />
+    const skills = skillsList.map((pd, index) => <div key={index} className="">
+        <div className="w-24">
+            <img src={pd.image} />
             <h1>{pd.name}</h1>
         </div>
     </div>);

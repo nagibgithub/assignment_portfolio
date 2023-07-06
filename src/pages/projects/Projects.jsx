@@ -1,8 +1,13 @@
+import ChefRecipe from "./ChefRecipe";
+import LegoToy from "./LegoToy";
+import SummerCamp from "./SummerCamp";
 
 const Projects = () => {
     return (
         <div>
-            this is projects
+            <SummerCamp></SummerCamp>
+            <LegoToy></LegoToy>
+            <ChefRecipe></ChefRecipe>
         </div>
     );
 };

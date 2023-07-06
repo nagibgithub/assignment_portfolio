@@ -1,4 +1,8 @@
 import Typewriter from 'typewriter-effect';
+import Atropos from 'atropos/react';
+
+
+
 const Banner = () => {
 
     return (
@@ -13,11 +17,13 @@ const Banner = () => {
                 />
             </div>
             <div className="flex justify-center">
-                <div className="avatar">
-                    <div className="w-96 mask mask-hexagon">
-                        <img src="https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/nagib-mahfuz.jpg" alt="Nagib Mahfuz" />
+                <Atropos className="my-atropos" shadow={false}>
+                    <div className="avatar">
+                        <div className="w-96 mask mask-hexagon">
+                            <img src="https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/nagib-mahfuz.jpg" alt="Nagib Mahfuz" />
+                        </div>
                     </div>
-                </div>
+                </Atropos>
             </div>
         </div>
     );

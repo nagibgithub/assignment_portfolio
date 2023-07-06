@@ -12,6 +12,7 @@ import Projects from './pages/projects/Projects';
 import Contact from './pages/Contact/Contact';
 import AboutMySelf from './pages/AboutMySelf/AboutMySelf';
 import ThemeProvider from './contexts/ThemeProvider';
+import 'atropos/css'
 
 
 const router = createBrowserRouter([

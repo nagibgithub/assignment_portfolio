@@ -20,6 +20,7 @@
     "react-dom": "^18.2.0",
     "react-fast-marquee": "^1.6.0",
     "react-icons": "^4.10.1",
+    "react-modal-image": "^2.6.0",
     "react-particles": "^2.10.1",
     "react-router-dom": "^6.14.1",
     "sort-by": "^0.0.2",

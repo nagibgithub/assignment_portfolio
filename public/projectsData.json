@@ -8,7 +8,10 @@
         "img_list": [
             "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/2.png",
             "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/3.png",
-            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/4.png"
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/4.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/5.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/6.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/7.png"
         ]
     },
     {
@@ -32,10 +35,7 @@
         "img_list": [
             "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/2.png",
             "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/3.png",
-            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/4.png",
-            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/5.png",
-            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/6.png",
-            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/7.png"
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/4.png"
         ]
     }
 ]

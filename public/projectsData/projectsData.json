@@ -4,23 +4,38 @@
         "live": "https://nagib-summer-camp.web.app/",
         "client_code": "https://github.com/nagibgithub/summer_language_school_client_side_code",
         "server_code": "https://github.com/nagibgithub/summer-language-school-server-side-code",
-        "img_home": "",
-        "img_list": []
+        "img_home": "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/home.png",
+        "img_list": [
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/2.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/3.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/summer/4.png"
+        ]
     },
     {
         "name": "Lego Toy Store",
         "live": "https://nagib-toy.web.app/",
         "client_code": "https://github.com/nagibgithub/lego-marketplace-client-side-code",
         "server_code": "https://github.com/nagibgithub/lego-marketplace-server-side-code",
-        "img_home": "",
-        "img_list": []
+        "img_home": "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/lego/home.png",
+        "img_list": [
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/lego/2.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/lego/3.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/lego/4.png"
+        ]
     },
     {
         "name": "Chef Recipe Hunter",
         "live": "https://test-of-radhuni.web.app/",
         "client_code": "https://github.com/nagibgithub/chef-recipe-hunter-client-side-code",
         "server_code": "https://github.com/nagibgithub/chef-recipe-hunter-server-side-code",
-        "img_home": "",
-        "img_list": []
+        "img_home": "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/home.png",
+        "img_list": [
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/2.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/3.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/4.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/5.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/6.png",
+            "https://raw.githubusercontent.com/nagibgithub/assignment_portfolio/main/src/assets/chef_recipe/7.png"
+        ]
     }
 ]

@@ -1,8 +1,9 @@
+import ProjectsLayout from "./ProjectsLayout";
 
 const SummerCamp = () => {
     return (
         <div>
-            this is SummerCamp
+            <ProjectsLayout></ProjectsLayout>
         </div>
     );
 };

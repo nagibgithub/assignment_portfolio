@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Summer Camp Language School",
+        "live": "https://nagib-summer-camp.web.app/",
+        "client_code": "https://github.com/nagibgithub/summber_language_school_client_side_code",
+        "server_code": "https://github.com/nagibgithub/summer-language-school-server-side-code",
+        "img_home": "",
+        "img_2": "",
+        "img_3": ""
+    },
+    {
+        "name": "Lego Toy Store",
+        "live": "https://nagib-toy.web.app/",
+        "client_code": "https://github.com/nagibgithub/lego-marketplace-client-side-code",
+        "server_code": "https://github.com/nagibgithub/lego-marketplace-server-side-code",
+        "img_home": "",
+        "img_2": "",
+        "img_3": ""
+    },
+    {
+        "name": "Chef Recipe Hunter",
+        "live": "https://test-of-radhuni.web.app/",
+        "client_code": "https://github.com/nagibgithub/chef-recipe-hunter-client-side-code",
+        "server_code": "https://github.com/nagibgithub/chef-recipe-hunter-server-side-code",
+        "img_home": "",
+        "img_2": "",
+        "img_3": ""
+    }
+]

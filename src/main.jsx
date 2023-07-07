@@ -13,6 +13,7 @@ import Contact from './pages/Contact/Contact';
 import AboutMySelf from './pages/AboutMySelf/AboutMySelf';
 import ThemeProvider from './contexts/ThemeProvider';
 import 'atropos/css'
+import 'swiper/css';
 
 
 const router = createBrowserRouter([

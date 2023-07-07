@@ -1,8 +1,9 @@
+import ProjectsLayout from "./ProjectsLayout";
 
 const ChefRecipe = () => {
     return (
         <div>
-            This is ChefRecipe
+            <ProjectsLayout></ProjectsLayout>
         </div>
     );
 };

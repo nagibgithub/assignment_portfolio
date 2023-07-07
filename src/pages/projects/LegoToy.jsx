@@ -1,8 +1,9 @@
+import ProjectsLayout from "./ProjectsLayout";
 
 const LegoToy = () => {
     return (
         <div>
-            this is LegoToy
+            <ProjectsLayout></ProjectsLayout>
         </div>
     );
 };
